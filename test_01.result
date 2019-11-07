@@ -1,0 +1,67 @@
+1 - pentagon
+2 - hexagon
+3 - octagon
+4 - exit
+area: 4
+center: 1.8 3.2
+coordinate:
+{
+1 2
+1 4
+2 5
+3 3
+2 2
+}
+Enter a pentagonal tuple
+area: 4
+center: 1.8 3.2
+1 2 
+1 4 
+2 5 
+3 3 
+2 2 
+
+area: 5
+center: 1.5 2
+coordinate:
+{
+0 2
+0 3
+3 3
+3 2
+2 1
+1 1}
+Enter a pentagonal tuple
+area: 5
+center: 1.5 2
+0 2 
+0 3 
+3 3 
+3 2 
+2 1 
+1 1 
+
+area: 14
+center: 6 4
+coordinate:
+{
+4 3
+4 5
+5 6
+7 6
+8 5
+8 3
+7 2
+5 2}
+Enter a pentagonal tuple
+area: 14
+center: 6 4
+4 3 
+4 5 
+5 6 
+7 6 
+8 5 
+8 3 
+7 2 
+5 2 
+
