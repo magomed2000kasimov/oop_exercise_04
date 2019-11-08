@@ -58,11 +58,7 @@ template<class T>
 inline constexpr bool has_print_method_v =
         has_print_method<T>::value;
 
-/*template<class T>
-std::enable_if_t<has_print_method_v<T>, void>
-print (const T& figure) {
-    return figure.print(std::cout);
-}*/
+
 template<class T>
 std::enable_if_t<has_print_method_v<T>, void>
 print (const T& figure,std::ostream& os) {
